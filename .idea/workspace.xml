@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0feb778a-68f4-4010-af8a-580dda90b81a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bJSBexu3fsXpgLMgKJDVh4Xrvm" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.Piles">
+    <configuration name="NthFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NthFibonacci" />
+      <module name="InterviewCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+      <module name="InterviewCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Piles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Piles" />
+      <module name="InterviewCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="largestSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="largestSubArray" />
+      <module name="InterviewCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Piles" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.largestSubArray" />
+        <item itemvalue="Application.NthFibonacci" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0feb778a-68f4-4010-af8a-580dda90b81a" name="Default Changelist" comment="" />
+      <created>1588348568637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588348568637</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-361" y="1195" key="#Project_Structure" timestamp="1588348577822">
+      <screen x="-699" y="1103" width="1440" height="815" />
+    </state>
+    <state x="-361" y="1195" key="#Project_Structure/-699.1103.1440.815/0.23.1920.1057/-1920.23.1920.1057@-699.1103.1440.815" timestamp="1588348577822" />
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom" timestamp="1588357697062">
+      <screen x="-699" y="1080" width="1440" height="900" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/-699.1080.1440.840/0.23.1920.1057/-1920.23.1920.1057@-699.1080.1440.840" timestamp="1588350600444" />
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588357697062" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center" timestamp="1588357697057">
+      <screen x="-699" y="1080" width="1440" height="900" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.center/-699.1080.1440.840/0.23.1920.1057/-1920.23.1920.1057@-699.1080.1440.840" timestamp="1588350600440" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588357697057" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left" timestamp="1588357697055">
+      <screen x="-699" y="1080" width="1440" height="900" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.left/-699.1080.1440.840/0.23.1920.1057/-1920.23.1920.1057@-699.1080.1440.840" timestamp="1588350600438" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588357697054" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right" timestamp="1588357697059">
+      <screen x="-699" y="1080" width="1440" height="900" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.right/-699.1080.1440.840/0.23.1920.1057/-1920.23.1920.1057@-699.1080.1440.840" timestamp="1588350600442" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588357697059" />
+    <state x="-470" y="1169" key="SettingsEditor" timestamp="1588353412494">
+      <screen x="-699" y="1080" width="1440" height="900" />
+    </state>
+    <state x="-470" y="1169" key="SettingsEditor/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588353412494" />
+  </component>
+</project>
