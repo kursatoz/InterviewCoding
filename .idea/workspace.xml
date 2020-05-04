@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0feb778a-68f4-4010-af8a-580dda90b81a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestKthinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solutionXY.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,16 +37,23 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Piles">
-    <configuration name="NthFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NthFibonacci" />
+  <component name="RunManager" selected="Application.Mining">
+    <configuration name="LargestKthinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestKthinArray" />
       <module name="InterviewCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+    <configuration name="Mining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mining" />
+      <module name="InterviewCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
       <module name="InterviewCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="largestSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="largestSubArray" />
+    <configuration name="solutionXY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solutionXY" />
       <module name="InterviewCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,10 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mining" />
+        <item itemvalue="Application.solutionXY" />
+        <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.LargestKthinArray" />
         <item itemvalue="Application.Piles" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.largestSubArray" />
-        <item itemvalue="Application.NthFibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -91,29 +101,41 @@
       <screen x="-699" y="1103" width="1440" height="815" />
     </state>
     <state x="-361" y="1195" key="#Project_Structure/-699.1103.1440.815/0.23.1920.1057/-1920.23.1920.1057@-699.1103.1440.815" timestamp="1588348577822" />
-    <state width="1398" height="48" key="GridCell.Tab.0.bottom" timestamp="1588357871784">
-      <screen x="-699" y="1080" width="1440" height="900" />
+    <state width="1195" height="277" key="GridCell.Tab.0.bottom" timestamp="1588618001867">
+      <screen x="-699" y="1103" width="1440" height="821" />
     </state>
     <state width="1398" height="214" key="GridCell.Tab.0.bottom/-699.1080.1440.840/0.23.1920.1057/-1920.23.1920.1057@-699.1080.1440.840" timestamp="1588350600444" />
-    <state width="1398" height="48" key="GridCell.Tab.0.bottom/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588357871784" />
-    <state width="1398" height="48" key="GridCell.Tab.0.center" timestamp="1588357871782">
-      <screen x="-699" y="1080" width="1440" height="900" />
+    <state width="1398" height="177" key="GridCell.Tab.0.bottom/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588616543171" />
+    <state width="1398" height="48" key="GridCell.Tab.0.bottom/-699.1103.1440.817/0.23.1920.1057/-1920.23.1920.1057@-699.1103.1440.817" timestamp="1588358344037" />
+    <state width="1195" height="277" key="GridCell.Tab.0.bottom/-699.1103.1440.821/0.23.1920.1057/-1920.23.1920.1057@-699.1103.1440.821" timestamp="1588618001867" />
+    <state width="1195" height="277" key="GridCell.Tab.0.center" timestamp="1588618001862">
+      <screen x="-699" y="1103" width="1440" height="821" />
     </state>
     <state width="1398" height="214" key="GridCell.Tab.0.center/-699.1080.1440.840/0.23.1920.1057/-1920.23.1920.1057@-699.1080.1440.840" timestamp="1588350600440" />
-    <state width="1398" height="48" key="GridCell.Tab.0.center/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588357871782" />
-    <state width="1398" height="48" key="GridCell.Tab.0.left" timestamp="1588357871782">
-      <screen x="-699" y="1080" width="1440" height="900" />
+    <state width="1398" height="177" key="GridCell.Tab.0.center/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588616543169" />
+    <state width="1398" height="48" key="GridCell.Tab.0.center/-699.1103.1440.817/0.23.1920.1057/-1920.23.1920.1057@-699.1103.1440.817" timestamp="1588358344036" />
+    <state width="1195" height="277" key="GridCell.Tab.0.center/-699.1103.1440.821/0.23.1920.1057/-1920.23.1920.1057@-699.1103.1440.821" timestamp="1588618001862" />
+    <state width="1195" height="277" key="GridCell.Tab.0.left" timestamp="1588618001861">
+      <screen x="-699" y="1103" width="1440" height="821" />
     </state>
     <state width="1398" height="214" key="GridCell.Tab.0.left/-699.1080.1440.840/0.23.1920.1057/-1920.23.1920.1057@-699.1080.1440.840" timestamp="1588350600438" />
-    <state width="1398" height="48" key="GridCell.Tab.0.left/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588357871782" />
-    <state width="1398" height="48" key="GridCell.Tab.0.right" timestamp="1588357871783">
-      <screen x="-699" y="1080" width="1440" height="900" />
+    <state width="1398" height="177" key="GridCell.Tab.0.left/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588616543168" />
+    <state width="1398" height="48" key="GridCell.Tab.0.left/-699.1103.1440.817/0.23.1920.1057/-1920.23.1920.1057@-699.1103.1440.817" timestamp="1588358344035" />
+    <state width="1195" height="277" key="GridCell.Tab.0.left/-699.1103.1440.821/0.23.1920.1057/-1920.23.1920.1057@-699.1103.1440.821" timestamp="1588618001861" />
+    <state width="1195" height="277" key="GridCell.Tab.0.right" timestamp="1588618001864">
+      <screen x="-699" y="1103" width="1440" height="821" />
     </state>
     <state width="1398" height="214" key="GridCell.Tab.0.right/-699.1080.1440.840/0.23.1920.1057/-1920.23.1920.1057@-699.1080.1440.840" timestamp="1588350600442" />
-    <state width="1398" height="48" key="GridCell.Tab.0.right/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588357871783" />
+    <state width="1398" height="177" key="GridCell.Tab.0.right/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588616543170" />
+    <state width="1398" height="48" key="GridCell.Tab.0.right/-699.1103.1440.817/0.23.1920.1057/-1920.23.1920.1057@-699.1103.1440.817" timestamp="1588358344036" />
+    <state width="1195" height="277" key="GridCell.Tab.0.right/-699.1103.1440.821/0.23.1920.1057/-1920.23.1920.1057@-699.1103.1440.821" timestamp="1588618001864" />
     <state x="-470" y="1169" key="SettingsEditor" timestamp="1588353412494">
       <screen x="-699" y="1080" width="1440" height="900" />
     </state>
     <state x="-470" y="1169" key="SettingsEditor/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588353412494" />
+    <state x="-314" y="1276" width="670" height="676" key="search.everywhere.popup" timestamp="1588612465261">
+      <screen x="-699" y="1080" width="1440" height="900" />
+    </state>
+    <state x="-314" y="1276" width="670" height="676" key="search.everywhere.popup/-699.1080.1440.900/0.0.1920.1080/-1920.0.1920.1080@-699.1080.1440.900" timestamp="1588612465261" />
   </component>
 </project>
